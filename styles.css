@@ -1,0 +1,23 @@
+
+
+
+/*-------------- second Section--------------*/
+/** {
+	border: 1px solid red;
+}*/
+
+.jumbotron {
+	background-image: url(https://davolara.files.wordpress.com/2015/02/simpsons-familyguy-crossover-10.jpg);
+	height: 350px;
+}
+
+.navbar-brand  {
+	font-size: 25px;
+	color: white;
+
+}
+
+.container h1 {
+	color: white;
+}
+
